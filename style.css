@@ -8,15 +8,15 @@
 
 /* Estilo do Corpo (Body) */
 body {
-    background-color: #f4f7f6; /* Cor de fundo suave */
-    color: #333; /* Cor do texto principal */
+    background-color: #909090; /* Cor de fundo suave */
+    color: #38962a; /* Cor do texto principal */
     transition: background-color 0.5s ease; /* Efeito suave quando o JS mudar a cor */
 }
 
 /* Estilo do Cabeçalho */
 header {
-    background-color: #4A90E2; /* Cor azul moderna */
-    color: white;
+    background-color: #4482ca; /* Cor azul moderna */
+    color: rgb(173, 137, 95);
     text-align: center;
     padding: 40px 20px;
 }
@@ -35,7 +35,7 @@ header h1 {
 
 /* Estilo dos Blocos de Conteúdo (Cards) */
 .card {
-    background-color: white;
+    background-color: rgb(185, 178, 178);
     padding: 25px;
     border-radius: 8px; /* Bordas arredondadas */
     margin-bottom: 20px; /* Espaço entre um card e outro */
@@ -43,14 +43,14 @@ header h1 {
 }
 
 .card h2 {
-    color: #4A90E2;
+    color: #3f7abd;
     margin-bottom: 15px;
 }
 
 /* Estilo do Botão Interativo */
 button {
-    background-color: #2ECC71; /* Cor verde */
-    color: white;
+    background-color: #90ae9c; /* Cor verde */
+    color: rgb(162, 148, 148);
     border: none;
     padding: 12px 24px;
     font-size: 1rem;
